@@ -5,7 +5,7 @@
 - https://neal.fun - many very cool minigames
 - https://codenames.game - guess the correct words
 
-## *Productivity*
+## Productivity
 - ⭐ https://monkeytype.com - write as fast as you can
 - https://codewars.com - practice your coding skills
 
