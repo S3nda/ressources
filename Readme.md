@@ -9,8 +9,9 @@
 - ⭐ https://monkeytype.com - write as fast as you can
 - https://codewars.com - practice your coding skills
 
-## Programming stuf
+## Programming stuff
 #### *AI*
 - ⭐ https://www.phind.com/ - you can use gpt model or phing model and it's tuned for programming
-#### *Animations on godot*
-- tweening (easing in and out) : https://youtube.com/watch?v=NB64GQX9mrw
+#### *Godot*
+- https://youtube.com/watch?v=NB64GQX9mrw - tweening (easing in and out)
+- https://www.youtube.com/watch?v=n8D3vEx7NAE&list=PL8zHkxFbrMKpuDQHVr0TtVnvk1fmdiYsV - Make a simple multiplayer shooter²
