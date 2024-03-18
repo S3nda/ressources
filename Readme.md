@@ -14,4 +14,8 @@
 - ⭐ https://www.phind.com/ - you can use gpt model or phing model and it's tuned for programming
 #### *Godot*
 - https://youtube.com/watch?v=NB64GQX9mrw - tweening (easing in and out)
-- https://www.youtube.com/watch?v=n8D3vEx7NAE&list=PL8zHkxFbrMKpuDQHVr0TtVnvk1fmdiYsV - Make a simple multiplayer shooter²
+- https://www.youtube.com/watch?v=n8D3vEx7NAE&list=PL8zHkxFbrMKpuDQHVr0TtVnvk1fmdiYsV - Make a simple multiplayer shooter
+
+## Design
+#### *Blender*
+- https://www.youtube.com/watch?v=t_c58ryJ-Sw - buildings in one minute
