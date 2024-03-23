@@ -10,8 +10,11 @@
 - https://codewars.com - practice your coding skills
 
 ## Programming stuff
+#### *Courses*
+- ⭐ https://roadmap.sh - a TON of tutorials and ressources to explore !
+
 #### *AI*
-- ⭐ https://www.phind.com/ - you can use gpt model or phing model and it's tuned for programming
+- ⭐ https://www.phind.com - you can use gpt model or phing model and it's tuned for programming
 #### *Godot*
 - https://youtube.com/watch?v=NB64GQX9mrw - tweening (easing in and out)
 - https://www.youtube.com/watch?v=n8D3vEx7NAE&list=PL8zHkxFbrMKpuDQHVr0TtVnvk1fmdiYsV - Make a simple multiplayer shooter
