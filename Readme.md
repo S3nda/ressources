@@ -13,6 +13,8 @@
 #### *Courses*
 - ⭐ https://roadmap.sh - a TON of tutorials and ressources to explore !
 
+#### *Full stack dev*
+- https://blog.logrocket.com/firebase-vs-supabase-choosing-right-tool-project/ - react x supabase
 #### *AI*
 - ⭐ https://www.phind.com - you can use gpt model or phing model and it's tuned for programming
 #### *Godot*
@@ -22,3 +24,4 @@
 ## Design
 #### *Blender*
 - https://www.youtube.com/watch?v=t_c58ryJ-Sw - buildings in one minute
+
