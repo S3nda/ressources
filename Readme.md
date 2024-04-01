@@ -14,14 +14,14 @@
 - ⭐ https://roadmap.sh - a TON of tutorials and ressources to explore !
 
 #### *Full stack dev*
-- https://blog.logrocket.com/firebase-vs-supabase-choosing-right-tool-project/ - react x supabase
+- [react x supabase](https://supabase.com/docs/guides/getting-started/tutorials/with-react)
+  
 #### *AI*
 - ⭐ https://www.phind.com - you can use gpt model or phing model and it's tuned for programming
 #### *Godot*
-- https://youtube.com/watch?v=NB64GQX9mrw - tweening (easing in and out)
-- https://www.youtube.com/watch?v=n8D3vEx7NAE&list=PL8zHkxFbrMKpuDQHVr0TtVnvk1fmdiYsV - Make a simple multiplayer shooter
+- [tweening (easing in and out)](https://youtube.com/watch?v=NB64GQX9mrw) 
+- [Make a simple multiplayer shooter](https://www.youtube.com/watch?v=n8D3vEx7NAE&list=PL8zHkxFbrMKpuDQHVr0TtVnvk1fmdiYsV)
 
 ## Design
 #### *Blender*
-- https://www.youtube.com/watch?v=t_c58ryJ-Sw - buildings in one minute
-
+- [buildings in one minute](https://www.youtube.com/watch?v=t_c58ryJ-Sw)
