@@ -1,3 +1,6 @@
+## School
+- [maths textbook](https://www.lelivrescolaire.fr/manuels/mathematiques-specialite-terminale-2020)
+
 ## Games
 #### *Browser games*
 - ⭐ https://chess.com - the reference for chess !
