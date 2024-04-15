@@ -15,6 +15,8 @@
 ## Programming stuff
 #### *Courses*
 - ⭐ https://roadmap.sh - a TON of tutorials and ressources to explore !
+- [go in 12 minutes](https://www.youtube.com/watch?v=C8LgvuEBraI)
+- [docker in 12 minutes](https://www.youtube.com/watch?v=YFl2mCHdv24)
 
 #### *Full stack dev*
 - [react x supabase](https://supabase.com/docs/guides/getting-started/tutorials/with-react)
