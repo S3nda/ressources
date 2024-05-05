@@ -28,5 +28,9 @@
 - [Make a simple multiplayer shooter](https://www.youtube.com/watch?v=n8D3vEx7NAE&list=PL8zHkxFbrMKpuDQHVr0TtVnvk1fmdiYsV)
 
 ## Design
-#### *Blender*
 - [buildings in one minute](https://www.youtube.com/watch?v=t_c58ryJ-Sw)
+- [full adobe collection](https://w14.monkrus.ws/search?q=adobe+suite)
+
+## *Music*
+- [download vst !](https://g-meh.com/)
+- [learn scales in 20 minutes](https://www.youtube.com/watch?v=Vq2xt2D3e3E&t=11s)
