@@ -36,3 +36,6 @@
 - [learn scales in 20 minutes](https://www.youtube.com/watch?v=Vq2xt2D3e3E&t=11s)
 - [master a song in 20 minutes](https://www.youtube.com/watch?v=OrCxnr0W5yY)
 - [dl high quality music for free](https://lucida.to)
+
+## *Buy stuff*
+- [bon plans](https://www.dealabs.com/bons-plans)
