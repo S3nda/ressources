@@ -1,5 +1,9 @@
-## School
-- [maths textbook](https://www.lelivrescolaire.fr/manuels/mathematiques-specialite-terminale-2020)
+## Books
+
+## Fun
+#### *Streaming websites*
+- https://vidbox.cc - stream series and films from many servers
+- https://franime.fr - watch animes in vo and vf
 
 ## Games
 #### *Browser games*
@@ -27,7 +31,7 @@
 - [tweening (easing in and out)](https://youtube.com/watch?v=NB64GQX9mrw) 
 - [Make a simple multiplayer shooter](https://www.youtube.com/watch?v=n8D3vEx7NAE&list=PL8zHkxFbrMKpuDQHVr0TtVnvk1fmdiYsV)
 
-## Design
+## Creativity
 - [buildings in one minute](https://www.youtube.com/watch?v=t_c58ryJ-Sw)
 - [full adobe collection](https://w14.monkrus.ws/search?q=adobe+suite)
 
